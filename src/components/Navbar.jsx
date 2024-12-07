@@ -9,7 +9,7 @@ import {
 } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
-import Rishabh from '../assets/Rishabh.gif';
+import Rishabh from '../assets/Rishabh.png';
 import { Link } from 'react-scroll';
 import Resume from '/resume.pdf'
 
