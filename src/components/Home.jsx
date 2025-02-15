@@ -1,4 +1,3 @@
-import React from 'react';
 import { HiArrowNarrowRight } from 'react-icons/hi';
 import { Link } from 'react-scroll';
 const Home = () => {
@@ -11,7 +10,7 @@ const Home = () => {
           RISHABH RAJ TIWARI
         </h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
-          I'm a Full Stack Developer.
+          I&apos;m a Full Stack Developer.
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
           I’m a full-stack developer specializing in building (and occasionally
